@@ -1,0 +1,27 @@
+    body {
+        background-color: rgb(188, 201, 196);
+    }
+    
+    h1,
+    h2,
+    h3 {
+        color: brown;
+        background-color: rgb(49, 49, 51);
+        text-align: center;
+        font-family: Cambria, serif;
+    }
+    
+    .p {
+        text-align: left;
+    }
+    
+    .rightimg {
+        float: inline-start;
+        margin: 4px 10px 2px 0px;
+    }
+    
+    a {
+        font-family: Cambria, serif;
+        font-size: 0.5cm;
+        text-align: center;
+    }
