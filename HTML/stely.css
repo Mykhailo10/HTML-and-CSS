@@ -1,5 +1,5 @@
     body {
-        background-color: rgb(136, 106, 116));
+        background-color: rgb(110, 85, 94);
     }
     
     h1,
@@ -11,8 +11,10 @@
         font-family: Cambria, serif;
     }
     
-    .p {
+    p {
         text-align: left;
+        font-family: Cambria, serif;
+        font-style: italic;
     }
     
     .rightimg {
@@ -24,6 +26,8 @@
         font-family: Cambria, serif;
         font-size: 0.5cm;
         text-align: center;
+        font-style: italic;
+        color: black;
     }
     
     h4 {
@@ -31,8 +35,4 @@
         text-align: left;
         font-family: Cambria, serif;
         font-size: 0.5cm;
-    }
-    
-    a {
-        font-family: Cambria, serif;
     }
